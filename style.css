@@ -1,0 +1,28 @@
+h1{ color: rgb(50, 153, 194)}
+
+* {border:solid}
+
+
+.header{
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.grid{
+background-color: aquamarine;
+display:flexbox;
+justify-content: space-evenly;
+flex-wrap: wrap;
+
+}
+.footer{
+
+    display: flexbox;
+    justify-content: flex-end;
+}
+
+p, h2{text-align: center;}
+
